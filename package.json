@@ -1,0 +1,15 @@
+{
+  "name": "run-alpha",
+  "version": "0.1.0",
+  "description": "minimal chess engine",
+  "license": "MIT",
+  "repository": "smichaelrogers/run-alpha",
+  "author": {
+    "name": "Scott M. Rogers",
+    "email": "mrogerssn@gmail.com",
+    "url": "scottrogers.tech"
+  },
+  "dependencies": {
+    "fmt-obj": "^1.2.0"
+  }
+}
